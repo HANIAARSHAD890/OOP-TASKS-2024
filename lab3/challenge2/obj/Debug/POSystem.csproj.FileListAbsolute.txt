@@ -1,0 +1,7 @@
+C:\pd03\POSystem\bin\Debug\POSystem.exe.config
+C:\pd03\POSystem\bin\Debug\POSystem.exe
+C:\pd03\POSystem\bin\Debug\POSystem.pdb
+C:\pd03\POSystem\obj\Debug\POSystem.csproj.AssemblyReference.cache
+C:\pd03\POSystem\obj\Debug\POSystem.csproj.CoreCompileInputs.cache
+C:\pd03\POSystem\obj\Debug\POSystem.exe
+C:\pd03\POSystem\obj\Debug\POSystem.pdb

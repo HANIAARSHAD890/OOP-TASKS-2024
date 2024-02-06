@@ -1,0 +1,7 @@
+C:\pd03\SMSystem\bin\Debug\SMSystem.exe.config
+C:\pd03\SMSystem\bin\Debug\SMSystem.exe
+C:\pd03\SMSystem\bin\Debug\SMSystem.pdb
+C:\pd03\SMSystem\obj\Debug\SMSystem.csproj.AssemblyReference.cache
+C:\pd03\SMSystem\obj\Debug\SMSystem.csproj.CoreCompileInputs.cache
+C:\pd03\SMSystem\obj\Debug\SMSystem.exe
+C:\pd03\SMSystem\obj\Debug\SMSystem.pdb
