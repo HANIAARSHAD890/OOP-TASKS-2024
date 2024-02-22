@@ -12,3 +12,10 @@ D:\OOP labTasks\lab3\challenge#3\obj\Debug\challenge#3.csproj.AssemblyReference.
 D:\OOP labTasks\lab3\challenge#3\obj\Debug\challenge#3.csproj.CoreCompileInputs.cache
 D:\OOP labTasks\lab3\challenge#3\obj\Debug\challenge#3.exe
 D:\OOP labTasks\lab3\challenge#3\obj\Debug\challenge#3.pdb
+D:\OOP\labtasks\lab3\challenge#3\bin\Debug\challenge#3.exe.config
+D:\OOP\labtasks\lab3\challenge#3\bin\Debug\challenge#3.exe
+D:\OOP\labtasks\lab3\challenge#3\bin\Debug\challenge#3.pdb
+D:\OOP\labtasks\lab3\challenge#3\obj\Debug\challenge#3.csproj.AssemblyReference.cache
+D:\OOP\labtasks\lab3\challenge#3\obj\Debug\challenge#3.csproj.CoreCompileInputs.cache
+D:\OOP\labtasks\lab3\challenge#3\obj\Debug\challenge#3.exe
+D:\OOP\labtasks\lab3\challenge#3\obj\Debug\challenge#3.pdb

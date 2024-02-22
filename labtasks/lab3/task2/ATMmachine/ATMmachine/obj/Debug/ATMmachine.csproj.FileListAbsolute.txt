@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\hafsa\ATMmachine\ATMmachine\bin\Debug\ATMmachine.exe.config
+C:\Users\DELL\Desktop\hafsa\ATMmachine\ATMmachine\bin\Debug\ATMmachine.exe
+C:\Users\DELL\Desktop\hafsa\ATMmachine\ATMmachine\bin\Debug\ATMmachine.pdb
+C:\Users\DELL\Desktop\hafsa\ATMmachine\ATMmachine\obj\Debug\ATMmachine.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\hafsa\ATMmachine\ATMmachine\obj\Debug\ATMmachine.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\hafsa\ATMmachine\ATMmachine\obj\Debug\ATMmachine.exe
+C:\Users\DELL\Desktop\hafsa\ATMmachine\ATMmachine\obj\Debug\ATMmachine.pdb

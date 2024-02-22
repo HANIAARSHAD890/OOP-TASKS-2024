@@ -48,8 +48,8 @@ namespace challenge_3
             // file names 
             string filename1 = "signup.txt";
             // calling load functions 
-        
-            load(peopleList, ref usercount, filename1);
+        /*
+            load(peopleList, ref usercount, filename1);*/
 
             // functions 
 
@@ -102,7 +102,7 @@ namespace challenge_3
                     if (option2)
                     {
                         Console.WriteLine("Valid");
-                        store1signin(peopleList, filename1, ref usercount);
+                       /* store1signin(peopleList, filename1, ref usercount);*/
                     }
                     else
                     {

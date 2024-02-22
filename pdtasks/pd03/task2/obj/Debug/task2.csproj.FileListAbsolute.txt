@@ -5,3 +5,10 @@ C:\pd03\task2\bin\Debug\task2.exe
 C:\pd03\task2\bin\Debug\task2.pdb
 C:\pd03\task2\obj\Debug\task2.exe
 C:\pd03\task2\obj\Debug\task2.pdb
+D:\OOP\pdtasks\pd03\task2\bin\Debug\task2.exe.config
+D:\OOP\pdtasks\pd03\task2\bin\Debug\task2.exe
+D:\OOP\pdtasks\pd03\task2\bin\Debug\task2.pdb
+D:\OOP\pdtasks\pd03\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\OOP\pdtasks\pd03\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\OOP\pdtasks\pd03\task2\obj\Debug\task2.exe
+D:\OOP\pdtasks\pd03\task2\obj\Debug\task2.pdb

@@ -1,0 +1,7 @@
+D:\OOP\pdtasks\pd04\TASK#4\bin\Debug\TASK#4.exe.config
+D:\OOP\pdtasks\pd04\TASK#4\bin\Debug\TASK#4.exe
+D:\OOP\pdtasks\pd04\TASK#4\bin\Debug\TASK#4.pdb
+D:\OOP\pdtasks\pd04\TASK#4\obj\Debug\TASK#4.csproj.AssemblyReference.cache
+D:\OOP\pdtasks\pd04\TASK#4\obj\Debug\TASK#4.csproj.CoreCompileInputs.cache
+D:\OOP\pdtasks\pd04\TASK#4\obj\Debug\TASK#4.exe
+D:\OOP\pdtasks\pd04\TASK#4\obj\Debug\TASK#4.pdb

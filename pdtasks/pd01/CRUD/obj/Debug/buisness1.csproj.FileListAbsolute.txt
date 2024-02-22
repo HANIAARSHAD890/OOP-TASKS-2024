@@ -1,0 +1,14 @@
+C:\sem2proj\buisness\buisness1\bin\Debug\buisness1.exe.config
+C:\sem2proj\buisness\buisness1\bin\Debug\buisness1.exe
+C:\sem2proj\buisness\buisness1\bin\Debug\buisness1.pdb
+C:\sem2proj\buisness\buisness1\obj\Debug\buisness1.csproj.AssemblyReference.cache
+C:\sem2proj\buisness\buisness1\obj\Debug\buisness1.csproj.CoreCompileInputs.cache
+C:\sem2proj\buisness\buisness1\obj\Debug\buisness1.exe
+C:\sem2proj\buisness\buisness1\obj\Debug\buisness1.pdb
+D:\OOP\pdtasks\pd01\buisness1\bin\Debug\buisness1.exe.config
+D:\OOP\pdtasks\pd01\buisness1\bin\Debug\buisness1.exe
+D:\OOP\pdtasks\pd01\buisness1\bin\Debug\buisness1.pdb
+D:\OOP\pdtasks\pd01\buisness1\obj\Debug\buisness1.csproj.AssemblyReference.cache
+D:\OOP\pdtasks\pd01\buisness1\obj\Debug\buisness1.csproj.CoreCompileInputs.cache
+D:\OOP\pdtasks\pd01\buisness1\obj\Debug\buisness1.exe
+D:\OOP\pdtasks\pd01\buisness1\obj\Debug\buisness1.pdb

@@ -5,3 +5,7 @@ C:\pd03\SMSystem\obj\Debug\SMSystem.csproj.AssemblyReference.cache
 C:\pd03\SMSystem\obj\Debug\SMSystem.csproj.CoreCompileInputs.cache
 C:\pd03\SMSystem\obj\Debug\SMSystem.exe
 C:\pd03\SMSystem\obj\Debug\SMSystem.pdb
+D:\OOP\pdtasks\pd03\task3\obj\Debug\SMSystem.csproj.AssemblyReference.cache
+D:\OOP\pdtasks\pd03\task3\obj\Debug\SMSystem.csproj.CoreCompileInputs.cache
+D:\OOP\pdtasks\pd03\task3\obj\Debug\SMSystem.exe
+D:\OOP\pdtasks\pd03\task3\obj\Debug\SMSystem.pdb

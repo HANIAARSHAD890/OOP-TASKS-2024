@@ -38,8 +38,6 @@ namespace POSystem
                 Console.WriteLine(BrandName);
                 Console.WriteLine(country);
 
-                
-
             }
 
         }

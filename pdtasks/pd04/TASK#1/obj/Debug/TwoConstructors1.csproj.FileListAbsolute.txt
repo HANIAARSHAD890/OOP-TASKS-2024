@@ -1,0 +1,7 @@
+D:\OOP\pdtasks\pd04\TwoConstructors1\bin\Debug\TwoConstructors1.exe.config
+D:\OOP\pdtasks\pd04\TwoConstructors1\bin\Debug\TwoConstructors1.exe
+D:\OOP\pdtasks\pd04\TwoConstructors1\bin\Debug\TwoConstructors1.pdb
+D:\OOP\pdtasks\pd04\TwoConstructors1\obj\Debug\TwoConstructors1.csproj.AssemblyReference.cache
+D:\OOP\pdtasks\pd04\TwoConstructors1\obj\Debug\TwoConstructors1.csproj.CoreCompileInputs.cache
+D:\OOP\pdtasks\pd04\TwoConstructors1\obj\Debug\TwoConstructors1.exe
+D:\OOP\pdtasks\pd04\TwoConstructors1\obj\Debug\TwoConstructors1.pdb

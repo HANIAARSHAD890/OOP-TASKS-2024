@@ -1,0 +1,2 @@
+D:\OOP\pdtasks\pd01\buisnesstoc#\obj\Debug\gameToC#.csproj.AssemblyReference.cache
+D:\OOP\pdtasks\pd01\buisnesstoc#\obj\Debug\gameToC#.csproj.CoreCompileInputs.cache

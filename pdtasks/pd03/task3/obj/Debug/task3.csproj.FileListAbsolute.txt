@@ -12,3 +12,10 @@ C:\pd02\pd03\task3\obj\Debug\task3.csproj.AssemblyReference.cache
 C:\pd02\pd03\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
 C:\pd02\pd03\task3\obj\Debug\task3.exe
 C:\pd02\pd03\task3\obj\Debug\task3.pdb
+D:\OOP\pdtasks\pd03\task3\bin\Debug\task3.exe.config
+D:\OOP\pdtasks\pd03\task3\bin\Debug\task3.exe
+D:\OOP\pdtasks\pd03\task3\bin\Debug\task3.pdb
+D:\OOP\pdtasks\pd03\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+D:\OOP\pdtasks\pd03\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+D:\OOP\pdtasks\pd03\task3\obj\Debug\task3.exe
+D:\OOP\pdtasks\pd03\task3\obj\Debug\task3.pdb
