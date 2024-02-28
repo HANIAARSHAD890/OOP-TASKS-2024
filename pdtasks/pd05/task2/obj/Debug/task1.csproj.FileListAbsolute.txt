@@ -1,0 +1,9 @@
+D:\OOP\labtasks\lab5\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+D:\OOP\labtasks\lab5\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+D:\OOP\pdtasks\pd05\task2\obj\Debug\task1.csproj.AssemblyReference.cache
+D:\OOP\pdtasks\pd05\task2\obj\Debug\task1.csproj.CoreCompileInputs.cache
+D:\OOP\pdtasks\pd05\task2\bin\Debug\task1.exe.config
+D:\OOP\pdtasks\pd05\task2\bin\Debug\task1.exe
+D:\OOP\pdtasks\pd05\task2\bin\Debug\task1.pdb
+D:\OOP\pdtasks\pd05\task2\obj\Debug\task1.exe
+D:\OOP\pdtasks\pd05\task2\obj\Debug\task1.pdb
