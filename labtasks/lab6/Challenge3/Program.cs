@@ -25,6 +25,10 @@ namespace Challenge3
             {
                 Console.WriteLine(r1.Gettimings());
             }
+            Console.WriteLine("GET EXERCISE");
+            {
+
+            }
         }
     }
 }

@@ -15,7 +15,7 @@ namespace Challenge3
           
     public Routine(string time )
     {
-            Time = time;z
+            Time = time;
         ListofExercise=new List<Exercise>();
     }
         public List<Exercise> Getlist()
