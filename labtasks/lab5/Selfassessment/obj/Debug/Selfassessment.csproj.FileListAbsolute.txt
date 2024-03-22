@@ -1,7 +1,7 @@
 D:\OOP\labtasks\lab5\Selfassessment\obj\Debug\Selfassessment.csproj.AssemblyReference.cache
 D:\OOP\labtasks\lab5\Selfassessment\obj\Debug\Selfassessment.csproj.CoreCompileInputs.cache
-D:\OOP\labtasks\lab5\Selfassessment\bin\Debug\Selfassessment.exe.config
-D:\OOP\labtasks\lab5\Selfassessment\bin\Debug\Selfassessment.exe
-D:\OOP\labtasks\lab5\Selfassessment\bin\Debug\Selfassessment.pdb
-D:\OOP\labtasks\lab5\Selfassessment\obj\Debug\Selfassessment.exe
-D:\OOP\labtasks\lab5\Selfassessment\obj\Debug\Selfassessment.pdb
+D:\OOP\labtasks\lab5\Selfassessment\bin\Debug\UAMS.exe.config
+D:\OOP\labtasks\lab5\Selfassessment\bin\Debug\UAMS.exe
+D:\OOP\labtasks\lab5\Selfassessment\bin\Debug\UAMS.pdb
+D:\OOP\labtasks\lab5\Selfassessment\obj\Debug\UAMS.exe
+D:\OOP\labtasks\lab5\Selfassessment\obj\Debug\UAMS.pdb

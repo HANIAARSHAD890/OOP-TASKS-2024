@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{AE3C60AA-1F3F-4F6D-8FA6-D98E0B44521E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Selfassessment</RootNamespace>
-    <AssemblyName>Selfassessment</AssemblyName>
+    <RootNamespace>UAMS</RootNamespace>
+    <AssemblyName>UAMS</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BL\DegProg.cs" />
     <Compile Include="DL\DegProgCRUD.cs" />
+    <Compile Include="DL\RegisterSubjectsCRUD.cs" />
     <Compile Include="DL\StudentCRUD.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

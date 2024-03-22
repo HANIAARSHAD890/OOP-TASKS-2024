@@ -1,0 +1,7 @@
+D:\OOP\Inheritance\InheritanceSelfassesment\InheritanceSelfassesment\bin\Debug\InheritanceSelfassesment.exe.config
+D:\OOP\Inheritance\InheritanceSelfassesment\InheritanceSelfassesment\bin\Debug\InheritanceSelfassesment.exe
+D:\OOP\Inheritance\InheritanceSelfassesment\InheritanceSelfassesment\bin\Debug\InheritanceSelfassesment.pdb
+D:\OOP\Inheritance\InheritanceSelfassesment\InheritanceSelfassesment\obj\Debug\InheritanceSelfassesment.csproj.AssemblyReference.cache
+D:\OOP\Inheritance\InheritanceSelfassesment\InheritanceSelfassesment\obj\Debug\InheritanceSelfassesment.csproj.CoreCompileInputs.cache
+D:\OOP\Inheritance\InheritanceSelfassesment\InheritanceSelfassesment\obj\Debug\InheritanceSelfassesment.exe
+D:\OOP\Inheritance\InheritanceSelfassesment\InheritanceSelfassesment\obj\Debug\InheritanceSelfassesment.pdb
